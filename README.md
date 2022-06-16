@@ -12,3 +12,5 @@ Youtube: https://youtu.be/qaobKXN3URc
 
 😊☕ This file contains all the steps and information that was recorded to help you describe the recorded steps to others.
 
+Thanks !
+
