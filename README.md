@@ -6,7 +6,7 @@
 🧑‍💻 Web application link >>>
 Youtube: https://youtu.be/qaobKXN3URc
 
-<img align="center" width="530em" src=![geradordesenha](https://user-images.githubusercontent.com/67087509/173985699-feb31a01-8bc8-4255-bfae-d2bc1965e6c7.gif)>
+![image](https://user-images.githubusercontent.com/67087509/173988007-a5a8feee-5dc8-4286-8a0b-906544c3329c.png)
 
 # Steps in the video
 
