@@ -1,4 +1,4 @@
-# Gerador Senha
+# Password Generator
 👍 Automatic password generator.
 
 ✔ This project was realized with HTML, CSS, JS. 
