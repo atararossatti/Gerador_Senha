@@ -1,4 +1,7 @@
 # Password Generator
+
+🧪 Just an experiment and curiosity.
+
 👍 Automatic password generator.
 
 ✔ This project was realized with HTML, CSS, JS. 
